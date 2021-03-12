@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name Elias A. Jinko from The Netherland. I am currenly leraning paython from beginners to advance and professinal level. I want to master everything about python.  
+My name Elias A. Jinko from The Netherland. I am currenly learning paython from beginners to advance and professinal level. I want to master everything about python.  
 I had salesforec admin certificate yet no job but realised if i really want to make a meaniful changes in my IT life then python will be the best option. I am looking for help from 
 all walks of life. I have an idea of an application to build in the near future after I master python. todat is 12-March-2021, God Willing, 5 months from now i should finish payhton
 and start applying for IT job or building my own deram application . I will definately need any support from experince developers .you can reach me eliasschiedam@gmail.com or 
